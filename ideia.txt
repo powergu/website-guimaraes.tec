@@ -2,6 +2,8 @@ Home (Página Inicial):
 Apresentação da empresa.
 Destaque dos principais serviços.
 Chamadas para ação (ex.: "Saiba mais" ou "Solicite um orçamento").
+PEGADA SITE DA CISCO, CRIAR IMAGEM 
+
 
 Serviços:
 Lista detalhada dos serviços oferecidos, como:
@@ -14,10 +16,18 @@ Sobre Nós:
 História da empresa.
 Missão e visão.
 Informações sobre a equipe e suas qualificações.
+missão visão e valores
+ 
+Imagem, logo
 
 Portfólio/Projetos:
 Exemplos de trabalhos realizados.
 Descrições breves e fotos, se possível.
+
+transformar os 3 quadrados dos planos em redes sociais 
+e no lugar da tabela/filtro, virá um Slide Show
+
+SLIDESHOW
 
 Contato:
 Formulário de contato.
